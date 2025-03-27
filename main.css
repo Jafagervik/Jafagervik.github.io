@@ -1,14 +1,12 @@
-@font-face {
-    font-family: SpaceMono;
-    src: url('https://fonts.googleapis.com/css2?family=Space+Mono&display=swap');
-}
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono&display=swap');
+
 body {
     width: 480px;
     margin: auto;
     position: relative;
     background: #181818;
     color: #EEE;
-    font-family: SpaceMono;
+    font-family: 'Space Mono', monospace;
     font-size: 20px;
     line-height: 22px;
     margin-top: 35px;
