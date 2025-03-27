@@ -35,3 +35,13 @@ h3 {
 p {
     margin-bottom: 35px;
 }
+ul {
+    margin-bottom: 35px;
+    list-style-type: square;
+}
+li::marker {
+    color: #BA55D3;
+}
+li {
+    margin-bottom: 4px;
+}
